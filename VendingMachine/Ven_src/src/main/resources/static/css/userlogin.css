@@ -1,0 +1,63 @@
+#imglogo {
+	margin-top: -15px;
+	height: 175px;
+	width: 200px
+}
+
+.wrapper {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.form-signin {
+    max-width: 420px;
+    padding: 30px 38px 66px;
+    margin: 0 auto;
+    background-color: #eee;
+    border: 3px dotted rgba(0,0,0,0.1);
+}
+
+.form-signup {
+    max-width: 420px;
+    margin: 0 auto;
+    background-color: #eee;
+    margin-top: 30px;
+    width: 50%;
+}
+
+.form-signin-heading {
+    text-align:center;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+.form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+}
+
+input[type="text"] {
+    margin-bottom: 0px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.validation-message {
+    font-style: normal;
+    font-size: 12px;
+    color: #FF1C19;
+}
+
+.admin-message-text {
+    font-style: normal;
+    font-size: 18px;
+    color: #004080;
+}

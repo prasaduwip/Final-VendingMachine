@@ -1,0 +1,8 @@
+service root url: http://localhost:8070/hcaservices/vendingmachine-service
+
+h2 cosole url : http://localhost:8070/hcaservices/vendingmachine-service/h2
+
+driveclass = org.h2.Driver
+jdbc url = jdbc:h2:mem:testdb
+user name = sa
+password =
